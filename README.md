@@ -10,4 +10,4 @@ and Fine-tuning XLS-R for Multi-Lingual ASR with 🤗 Transformers
 Evaluation base code was modified from Manan Dey's manandey/wav2vec2-large-xlsr-_irish model 
 (https://huggingface.co/manandey/wav2vec2-large-xlsr-_irish). 
 Code used with permission from open source Apache 2.0 license. 
-Modifications were made to adapt to the Common Voice Irish dataset which operates under a CC-O creative commons license.
+Modifications were made to adapt to the Common Voice Irish dataset which operates under a CC-0 creative commons license.
